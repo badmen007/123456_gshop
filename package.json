@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "json-server": "^0.16.1",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
